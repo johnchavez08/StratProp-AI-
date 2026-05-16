@@ -1,0 +1,96 @@
+MLS#,Address,City,State,ZIP,Price,Beds,Baths,SqFt,YearBuilt,DaysOnMarket,PropertyType,Status,ListAgent,Brokerage
+7001,4512 Edna Drive,Fort Worth,TX,76107,$289000,3,2,1850,1985,45,Single Family,Active,Sarah Martinez,RE/MAX
+7002,5234 Rosedale Street,Fort Worth,TX,76103,$325000,4,2.5,2100,1992,32,Single Family,Active,James Wilson,Keller Williams
+7003,2847 Hulen Street,Fort Worth,TX,76109,$450000,4,3,2750,2005,18,Single Family,Active,Michelle Lee,Coldwell Banker
+7004,7823 Forest Hill Drive,Fort Worth,TX,76116,$385000,3,2.5,2200,1988,56,Single Family,Active,Robert Garcia,Compass
+7005,3456 Bellaire Drive,Fort Worth,TX,76109,$520000,5,3.5,3100,2008,12,Single Family,Active,Patricia Brown,Sotheby's
+7006,6789 Overton Ridge Drive,Fort Worth,TX,76132,$275000,3,2,1650,1980,67,Single Family,Active,David Johnson,RE/MAX
+7007,1234 Mountain View Lane,Fort Worth,TX,76110,$412000,4,3,2450,2000,28,Single Family,Active,Lisa Anderson,Keller Williams
+7008,5678 Meadowbrook Drive,Fort Worth,TX,76103,$298000,3,2,1750,1987,51,Single Family,Active,Michael Chen,ERA
+7009,2345 Park Hill Avenue,Fort Worth,TX,76109,$565000,5,4,3250,2010,15,Single Family,Active,Jennifer White,Redfin
+7010,8901 Westridge Drive,Fort Worth,TX,76116,$445000,4,3,2600,2003,39,Single Family,Active,Christopher Moore,Century 21
+7011,4567 Clearview Drive,Fort Worth,TX,76119,$320000,3,2.5,1900,1990,44,Single Family,Active,Amanda Torres,HomeSmart
+7012,9012 Shady Lane,Fort Worth,TX,76105,$275000,3,2,1600,1982,72,Single Family,Active,Kevin Martinez,Engel & Völkers
+7013,3789 Bristol Drive,Fort Worth,TX,76109,$485000,4,3,2800,2006,22,Single Family,Active,Susan Blake,Allie Beth Allman
+7014,6234 Ridgemont Drive,Fort Worth,TX,76132,$355000,4,2.5,2150,1995,48,Single Family,Active,Thomas White,CBRE
+7015,1567 Kingwood Drive,Fort Worth,TX,76110,$398000,4,3,2350,1999,31,Single Family,Active,Rachel Green,Compass
+7016,5890 Sunnybrook Lane,Fort Worth,TX,76103,$310000,3,2,1800,1989,53,Single Family,Active,Mark Johnson,RE/MAX
+7017,2901 Spring Valley Drive,Fort Worth,TX,76116,$435000,4,3,2500,2004,26,Single Family,Active,Emily Wilson,Keller Williams
+7018,7234 Heritage Drive,Fort Worth,TX,76109,$520000,5,3.5,3000,2007,19,Single Family,Active,Daniel Lee,Coldwell Banker
+7019,4123 Meadow Lane,Fort Worth,TX,76119,$295000,3,2,1700,1986,59,Single Family,Active,Jessica Brown,Compass
+7020,8567 Vista Drive,Fort Worth,TX,76105,$445000,4,3,2600,2002,41,Single Family,Active,Ryan Garcia,Redfin
+7021,3012 Autumn Lane,Fort Worth,TX,76132,$380000,4,2.5,2250,1997,35,Single Family,Active,Nicole Martinez,ERA
+7022,6789 Summit Drive,Fort Worth,TX,76110,$475000,5,3,2900,2005,25,Single Family,Active,Brandon White,Compass
+7023,1890 Parkside Drive,Fort Worth,TX,76103,$305000,3,2,1850,1988,54,Single Family,Active,Katherine Lee,RE/MAX
+7024,5123 Westlake Drive,Fort Worth,TX,76109,$510000,4,3.5,2950,2008,17,Single Family,Active,Alexander Brown,Sotheby's
+7025,9456 Crestwood Drive,Fort Worth,TX,76116,$420000,4,3,2450,2001,38,Single Family,Active,Victoria Garcia,Keller Williams
+7026,2678 Oakwood Drive,Fort Worth,TX,76119,$325000,3,2.5,1950,1991,46,Single Family,Active,Samuel Martinez,Coldwell Banker
+7027,7901 Pinewood Drive,Fort Worth,TX,76105,$385000,4,3,2300,1999,42,Single Family,Active,Grace Lee,Compass
+7028,4345 Elmwood Drive,Fort Worth,TX,76109,$545000,5,4,3150,2009,14,Single Family,Active,Matthew White,Redfin
+7029,8012 Maple Drive,Fort Worth,TX,76132,$365000,4,2.5,2200,1996,49,Single Family,Active,Lauren Wilson,ERA
+7030,1234 Cedar Lane,Fort Worth,TX,76110,$410000,4,3,2400,2000,29,Single Family,Active,Tyler Johnson,Compass
+7101,2500 Forest Park Boulevard Unit 401,Fort Worth,TX,76110,$185000,2,2,1100,2000,15,Condo,Active,Jennifer Wong,Keller Williams
+7102,3100 Overton Ridge Drive Unit 305,Fort Worth,TX,76132,$165000,2,1.5,950,1998,38,Condo,Active,Marcus Brown,RE/MAX
+7103,1800 Park Hill Avenue Unit 201,Fort Worth,TX,76109,$225000,2,2,1250,2003,22,Condo,Active,Patricia Lee,Coldwell Banker
+7104,4200 Meadowbrook Drive Unit 108,Fort Worth,TX,76103,$155000,1,1.5,800,1995,58,Condo,Active,Robert White,Compass
+7105,5600 Shady Lane Unit 402,Fort Worth,TX,76105,$195000,2,2,1050,2001,31,Condo,Active,Susan Martinez,ERA
+7106,3450 Bristol Drive Unit 206,Fort Worth,TX,76109,$240000,2,2,1300,2004,18,Condo,Active,James Garcia,Redfin
+7107,6100 Heritage Drive Unit 304,Fort Worth,TX,76116,$210000,2,2,1150,2002,42,Condo,Active,Lisa Johnson,HomeSmart
+7108,2900 Spring Valley Drive Unit 105,Fort Worth,TX,76119,$175000,2,1.5,900,1997,51,Condo,Active,Michael Lee,Engel & Völkers
+7109,4700 Westridge Drive Unit 309,Fort Worth,TX,76132,$185000,2,2,1000,1999,35,Condo,Active,Amanda White,Allie Beth Allman
+7110,7200 Vista Drive Unit 201,Fort Worth,TX,76105,$205000,2,2,1200,2002,26,Condo,Active,David Brown,Compass
+7201,500 Forest Park Boulevard,Fort Worth,TX,76110,$485000,12,8,6500,1998,68,Apartment,Active,Patricia Lee,Keller Williams
+7202,1200 Meadowbrook Drive,Fort Worth,TX,76103,$625000,18,10,8200,2002,45,Apartment,Active,Robert Johnson,Coldwell Banker
+7203,2800 Overton Ridge Drive,Fort Worth,TX,76132,$520000,15,9,7100,2000,52,Apartment,Active,Jennifer Wong,RE/MAX
+7204,3600 Park Hill Avenue,Fort Worth,TX,76109,$745000,22,12,9500,2005,38,Apartment,Active,James Garcia,Compass
+7205,5100 Heritage Drive,Fort Worth,TX,76116,$415000,10,6,5800,1996,71,Apartment,Active,Susan Martinez,ERA
+7206,6400 Shady Lane,Fort Worth,TX,76105,$550000,14,8,7300,2001,49,Apartment,Active,Michael Brown,Redfin
+7207,7700 Spring Valley Drive,Fort Worth,TX,76119,$680000,20,11,8900,2003,42,Apartment,Active,Lisa White,HomeSmart
+7208,4500 Vista Drive,Fort Worth,TX,76132,$465000,12,7,6200,1999,61,Apartment,Active,David Lee,Engel & Völkers
+7209,8200 Westridge Drive,Fort Worth,TX,76110,$765000,24,13,10200,2006,35,Apartment,Active,Amanda Johnson,Allie Beth Allman
+7210,2100 Bristol Drive,Fort Worth,TX,76109,$595000,16,9,7600,2002,47,Apartment,Active,Mark Garcia,Compass
+7301,10 Acres Forest Park Boulevard,Fort Worth,TX,76110,$285000,0,0,435600,0,82,Land,Active,Jennifer Wong,Keller Williams
+7302,5 Acres Meadowbrook Drive,Fort Worth,TX,76103,$185000,0,0,217800,0,95,Land,Active,Robert Johnson,RE/MAX
+7303,8.5 Acres Heritage Drive,Fort Worth,TX,76116,$425000,0,0,370080,0,71,Land,Active,Patricia Lee,Coldwell Banker
+7304,3.2 Acres Park Hill Avenue,Fort Worth,TX,76109,$325000,0,0,139393,0,88,Land,Active,James Garcia,Compass
+7305,6 Acres Shady Lane,Fort Worth,TX,76105,$295000,0,0,261360,0,77,Land,Active,Susan Martinez,ERA
+7306,2.8 Acres Spring Valley Drive,Fort Worth,TX,76119,$165000,0,0,121968,0,103,Land,Active,Michael Brown,Redfin
+7307,7.5 Acres Vista Drive,Fort Worth,TX,76132,$515000,0,0,326700,0,69,Land,Active,Lisa White,HomeSmart
+7308,4.1 Acres Bristol Drive,Fort Worth,TX,76109,$385000,0,0,178506,0,81,Land,Active,David Lee,Engel & Völkers
+7309,9 Acres Westridge Drive,Fort Worth,TX,76110,$625000,0,0,391860,0,65,Land,Active,Amanda Johnson,Allie Beth Allman
+7310,2 Acres Overton Ridge Drive,Fort Worth,TX,76116,$145000,0,0,87120,0,112,Land,Active,Mark Garcia,Compass
+7401,5000 Camp Bowie Boulevard,Fort Worth,TX,76107,$1850000,0,0,15000,1995,128,Commercial,Active,Sarah Martinez,CBRE
+7402,4200 South Freeway,Fort Worth,TX,76105,$2450000,0,0,22000,2001,115,Commercial,Active,James Wilson,Coldwell Banker
+7403,3800 East Lancaster Avenue,Fort Worth,TX,76103,$1650000,0,0,18500,1998,142,Commercial,Active,Michelle Lee,RE/MAX
+7404,7500 Camp Bowie Boulevard,Fort Worth,TX,76116,$3200000,0,0,28000,2006,95,Commercial,Active,Robert Garcia,Compass
+7405,2100 Highway 287,Fort Worth,TX,76112,$1200000,0,0,12000,1999,155,Commercial,Active,Patricia Brown,Sotheby's
+7406,6500 West Freeway,Fort Worth,TX,76110,$2750000,0,0,25000,2003,108,Commercial,Active,David Johnson,Keller Williams
+7407,1500 East Abram Street,Fort Worth,TX,76010,$950000,0,0,10500,1997,168,Commercial,Active,Lisa Anderson,ERA
+7408,8900 North Freeway,Fort Worth,TX,76108,$3500000,0,0,31000,2008,85,Commercial,Active,Michael Chen,Redfin
+7409,4100 South Main Street,Fort Worth,TX,76109,$1750000,0,0,16500,2000,135,Commercial,Active,Jennifer White,Century 21
+7410,6800 East Freeway,Fort Worth,TX,76119,$2900000,0,0,26500,2004,102,Commercial,Active,Christopher Moore,HomeSmart
+7501,50 Acres Richardson Road,Fort Worth,TX,76107,$485000,0,0,2178000,0,145,Land,Active,Patricia Lee,RE/MAX
+7502,35 Acres Highway 287,Fort Worth,TX,76114,$625000,0,0,1523400,0,128,Land,Active,Robert Johnson,Keller Williams
+7503,42 Acres West Freeway,Fort Worth,TX,76112,$795000,0,0,1829520,0,115,Land,Active,Jennifer Wong,Coldwell Banker
+7504,25 Acres South Freeway,Fort Worth,TX,76119,$425000,0,0,1089000,0,152,Land,Active,James Garcia,Compass
+7505,60 Acres Highway 67,Fort Worth,TX,76105,$875000,0,0,2611200,0,98,Land,Active,Susan Martinez,ERA
+7601,8 Units Meadowbrook Drive,Fort Worth,TX,76103,$580000,16,12,9600,2000,58,Multi Family,Active,Michael Brown,Redfin
+7602,6 Units Heritage Drive,Fort Worth,TX,76116,$420000,12,10,7200,1998,72,Multi Family,Active,Lisa White,HomeSmart
+7603,10 Units Park Hill Avenue,Fort Worth,TX,76109,$685000,20,15,10500,2003,44,Multi Family,Active,David Lee,Engel & Völkers
+7604,4 Units Spring Valley Drive,Fort Worth,TX,76119,$285000,8,7,4800,1996,81,Multi Family,Active,Amanda Johnson,Allie Beth Allman
+7605,7 Units Vista Drive,Fort Worth,TX,76132,$515000,14,11,8400,2001,61,Multi Family,Active,Mark Garcia,Compass
+7606,9 Units Shady Lane,Fort Worth,TX,76105,$625000,18,14,9200,2002,49,Multi Family,Active,Sarah Martinez,RE/MAX
+7607,5 Units Bristol Drive,Fort Worth,TX,76109,$375000,10,9,6000,1999,68,Multi Family,Active,James Wilson,Keller Williams
+7608,12 Units Westridge Drive,Fort Worth,TX,76110,$745000,24,18,12000,2005,38,Multi Family,Active,Michelle Lee,Coldwell Banker
+7609,6 Units Forest Hill Drive,Fort Worth,TX,76116,$480000,12,10,7500,2000,54,Multi Family,Active,Robert Garcia,Compass
+7610,8 Units Bellaire Drive,Fort Worth,TX,76109,$595000,16,13,8800,2003,47,Multi Family,Active,Patricia Brown,Sotheby's
+7701,3 Bed Townhouse Arlington Road,Fort Worth,TX,76010,$245000,3,2.5,1600,2001,35,Townhouse,Active,David Johnson,RE/MAX
+7702,3 Bed Townhouse Riverside Drive,Fort Worth,TX,76103,$265000,3,2.5,1700,2002,42,Townhouse,Active,Lisa Anderson,Keller Williams
+7703,4 Bed Townhouse Samuels Avenue,Fort Worth,TX,76109,$315000,4,3,2000,2004,28,Townhouse,Active,Michael Chen,Coldwell Banker
+7704,2 Bed Townhouse Park Lane,Fort Worth,TX,76110,$185000,2,2,1100,1999,58,Townhouse,Active,Jennifer White,Compass
+7705,3 Bed Townhouse Main Street,Fort Worth,TX,76105,$275000,3,2.5,1750,2003,38,Townhouse,Active,Christopher Moore,ERA
+7706,4 Bed Townhouse Berry Street,Fort Worth,TX,76119,$345000,4,3,2150,2005,22,Townhouse,Active,Amanda Torres,Redfin
+7707,2 Bed Townhouse Summit Avenue,Fort Worth,TX,76116,$195000,2,2,1150,2000,62,Townhouse,Active,Kevin Martinez,HomeSmart
+7708,3 Bed Townhouse Lincoln Avenue,Fort Worth,TX,76109,$295000,3,2.5,1800,2002,45,Townhouse,Active,Susan Blake,Engel & Völkers
+7709,4 Bed Townhouse Evans Avenue,Fort Worth,TX,76132,$365000,4,3,2250,2006,19,Townhouse,Active,Thomas White,Allie Beth Allman
+7710,3 Bed Townhouse Station Street,Fort Worth,TX,76103,$255000,3,2.5,1650,2001,51,Townhouse,Active,Rachel Green,Compass
